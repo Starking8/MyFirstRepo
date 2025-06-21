@@ -1,4 +1,4 @@
-[What i've learned from this course]
+["What I have learned from this course"]
 includes, several most used git commands,
 Cloning repo, making changes, commiting meaningful messages
 Making pull requests and more
