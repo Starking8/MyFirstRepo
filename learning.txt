@@ -1,0 +1,3 @@
+I've learnt several most used git commands,
+Cloning repo, making changes, commiting meaningful messages
+Making pull requests and more
